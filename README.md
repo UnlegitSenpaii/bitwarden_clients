@@ -1,7 +1,8 @@
 
-My Fork of Bitwarden Clients.
+##  My Fork of Bitwarden Clients.
 
 Style and Search Engine Changes.
+
 ![EcospaceCompostableGIF](https://github.com/UnlegitSenpaii/bitwarden_clients/assets/39647545/3081c152-c21f-4d3b-a05b-c9674f783062)
 
 ---
