@@ -1,3 +1,11 @@
+# ![EcospaceCompostableGIF](https://github.com/UnlegitSenpaii/bitwarden_clients/assets/39647545/3081c152-c21f-4d3b-a05b-c9674f783062)
+
+My Fork of Bitwarden Clients.
+
+Style and Search Engine Changes.
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/bitwarden/brand/master/screenshots/apps-combo-logo.png" alt="Bitwarden" />
 </p>
